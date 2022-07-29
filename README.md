@@ -37,4 +37,3 @@ Both active trialists and license holders can take advantage of our legendary te
 -   Follow this link to [report bugs and add feature requests](https://feedback.telerik.com/blazor?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-vc-training-github-starter)
 -   Browse or contribute to [Telerik Blazor localization texts](https://github.com/telerik/blazor-ui-messages?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-vc-training-github-starter) used in the samples
 -   Create, run, share and test Blazor code snippets directly in the browser in our [Blazor REPL code runner](https://blazorrepl.telerik.com/?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-vc-training-github-starter)
-
