@@ -2,6 +2,8 @@
 
 Welcome to the sample project repository of [Telerik UI for Blazor getting started video course](https://learn.telerik.com/learn/course/internal/view/elearning/27/telerik-ui-for-blazor). The training course is developed to help you get started with the Blazor framework and the Telerik UI for Blazor components and features. It aims to put you in the shoes of an engineer who adds new features to an existing sample application called RSP Issue Tracker. 
 
+[![Telerik UI for Blazor Documentation](images/Telerik-UI-for-Blazor-Virtual-Classroom-Sample-Project-Starter-830x230-RITM0168127.png)](https://learn.telerik.com/learn/course/internal/view/elearning/27/telerik-ui-for-blazor?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-vc-training-github-starter)
+
 In this repo, you will find the starter source code needed for the hands-on exercises that are part of the different chapters throughout the training. If you would like to run side-by-side the start and final sample projects, you can find the one including Telerik UI for Blazor components in the dedicated repo [here](https://github.com/telerik/RpsTrackerBlazorTelerikUI).
 
 ## About the Telerik UI for Blazor Video Course
